@@ -25,6 +25,8 @@ const Countries = () => {
         setVisitedFlags([...visitedFlags, flag]);
     }
 
+    
+
     return (
         <div>
             <h3>Countries: {countries.length}</h3>
