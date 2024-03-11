@@ -3,3 +3,13 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
+
+.flag-container img{
+    width: 100px;
+    margin: 5px;
+}
+
+.flag-container{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
